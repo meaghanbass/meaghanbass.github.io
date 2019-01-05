@@ -1,5 +1,5 @@
-	/*---------------------------------*/
-/*			GENERAL 				*/
+/*---------------------------------*/
+/*			GENERAL 			   */
 /*---------------------------------*/
 * { margin: 0; padding: 0; }
 html, body {  }
@@ -410,33 +410,7 @@ p.listfix, p.list-fix { margin-bottom: 0; }
 	width:145px;
 }
 /* Subpage About */
-/*
-FULL SIZE MAP
-#map-container { width: 824px; height: 695px; background: url(../images/edc_map.jpg) 0 0 no-repeat; margin: 30px 0 30px 0; position: relative; }
-.popbox { position:relative; }
-.collapse { position:relative; }
-.box { color: #fff; display:block; display:none; background:#2d5a7b; border-radius:5px; position:absolute; width:200px;  text-align: left; left: -220px; top: -42px; }
-.box a.close { color: #fff; font-size:16px; text-decoration:underline; position: absolute; top: 0px; right: 10px; text-decoration: none; font-weight: bold; }
-.landing .box p { padding: 16px; font-size: 13px; line-height: 18px; }
-.arrow { width: 0; height: 0; position:absolute; right:-14px; top:20px; z-index:1001; width: 14px; height: 28px; background: url(../images/boxarrow.png) 0 0 no-repeat; }
-#position-sandiego { position: absolute; top: -8px; left: 89px; z-index: 999;}
-#position-sandiego a.open { display: block; width: 144px; height: 135px;  background: url(../images/sprites-map.png) -30px -16px; }
-#position-imperial { position: absolute; top: -12px; left: 95px; z-index: 999;}
-#position-imperial a.open { display: block; width: 144px; height: 135px;  background: url(../images/sprites-map.png) -20px -187px; }
-#position-mexico { position: absolute; top: 40px; left: 190px; z-index: 999;}
-#position-mexico a.open { display: block; width: 149px; height: 157px;  background: url(../images/sprites-map.png) -17px -359px; }
 
-#map-sd { width: 255px; height: 193px; position: absolute; background: url(../images/sprites-map.png) -195px -219px no-repeat; top: 258px; left: 324px; }
-#map-imperial { width: 254px; height: 164px; position: absolute; background: url(../images/sprites-map.png) -222px -426px no-repeat; top: 268px; left: 570px; }
-#map-mexico { width: 439px; height: 285px; position: absolute; background: url(../images/sprites-map.png) -485px -304px no-repeat; right: 0; bottom: 0; }
-
-.map-highlight { text-indent: -9999px; opacity: 0; -moz-transition: opacity .2s ease .1s; -webkit-transition: opacity .2s ease .1s;  }
-#map-sd:hover .map-highlight, #map-imperial:hover .map-highlight, #map-mexico:hover .map-highlight { opacity: 1; }
-	#map-sd .map-highlight { width: 255px; height: 193px; background: url(../images/sprites-map.png) -195px -8px no-repeat; }
-	#map-imperial .map-highlight { width: 254px; height: 164px; background: url(../images/sprites-map.png) -222px -606px no-repeat; }
-	#map-mexico .map-highlight { width: 439px; height: 285px; background: url(../images/sprites-map.png) -485px 1px no-repeat; }
-	
-	*/
 .landing p.maptext {
 	font-size: 15px;
     line-height: 28px;
@@ -1529,17 +1503,7 @@ p.apply-btn a:hover {background:#3bceef;}
 	-webkit-transition:background-color 0.5s ease;-moz-transition:background-color 0.5s ease;-o-transition:background-color 0.5s ease;transition:background-color 0.5s ease;
 	background-color: #013c4d;
 }
-/*
-.inclusive-twitter:after { 
-	content: ''; 
-	position: absolute; 
-	bottom: 0; left: 70px; width: 0; height: 0; border: 31px solid transparent; border-top-color: #58cef2; border-bottom: 0; border-left: 0; margin-left: -15.5px; margin-bottom: -31px; 
-	-webkit-transition:border-color 0.5s ease;-moz-transition:border-color 0.5s ease;-o-transition:border-color 0.5s ease;transition:border-color 0.5s ease;
-}
-.inclusive-twitter:hover:after {
-	border-top-color:#013c4d;
-	-webkit-transition:border-color 0.5s ease;-moz-transition:border-color 0.5s ease;-o-transition:border-color 0.5s ease;transition:border-color 0.5s ease;
-}*/
+
 
 .inclusive-twitter h3 {
 	margin: 0 !important;
